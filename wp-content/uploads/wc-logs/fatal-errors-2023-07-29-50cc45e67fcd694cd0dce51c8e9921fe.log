@@ -1,0 +1,4 @@
+2023-07-29T09:31:27+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 12288 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-order-refunds-v1-controller.php on line 386
+
+2023-07-29T10:11:47+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 65536 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\lexer\lib\Doctrine\Common\Lexer\AbstractLexer.php on line 37
+

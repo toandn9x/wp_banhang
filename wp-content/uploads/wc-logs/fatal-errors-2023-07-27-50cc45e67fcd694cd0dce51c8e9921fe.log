@@ -1,0 +1,30 @@
+2023-07-27T01:36:59+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 28672 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\themes\flatsome\inc\classes\class-tgm-plugin-activation.php on line 871
+
+2023-07-27T01:37:06+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 20480 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\functions.php on line 649
+
+2023-07-27T10:23:56+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 73728 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\functions.php on line 649
+
+2023-07-27T10:34:04+00:00 CRITICAL Out of memory (allocated 48234496) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\blocks\blocks-json.php on line 1
+
+2023-07-27T10:35:55+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php on line 596
+
+2023-07-27T10:37:54+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 40960 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php on line 1379
+
+2023-07-27T10:38:52+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 131072 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 122
+
+2023-07-27T10:39:17+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 536576 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\pomo\streams.php on line 229
+
+2023-07-27T10:39:24+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 536576 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\pomo\streams.php on line 229
+
+2023-07-27T10:39:31+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\themes\flatsome\inc\post-types\post-type-ux-portfolio.php on line 1
+
+2023-07-27T10:39:31+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 16384 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\FeaturedItem.php on line 225
+
+2023-07-27T10:40:29+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 3379
+
+2023-07-27T10:44:31+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 458752 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php on line 1467
+
+2023-07-27T10:46:32+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 458752 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php on line 1467
+
+2023-07-27T10:48:14+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 28672 bytes) in C:\xampp\htdocs\WP\wordpress\wp-admin\includes\ajax-actions.php on line 2619
+

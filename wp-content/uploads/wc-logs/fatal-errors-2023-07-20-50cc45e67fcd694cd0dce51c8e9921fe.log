@@ -1,0 +1,6 @@
+2023-07-20T01:56:30+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 8192 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\functions.php on line 649
+
+2023-07-20T01:56:40+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\blocks\blocks-json.php on line 1
+
+2023-07-20T03:57:43+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 8388608 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-orders-v1-controller.php on line 426
+

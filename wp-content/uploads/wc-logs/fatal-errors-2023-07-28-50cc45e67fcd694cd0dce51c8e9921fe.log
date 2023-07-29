@@ -1,0 +1,4 @@
+2023-07-28T04:45:30+00:00 CRITICAL Out of memory (allocated 69206016) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\blocks\blocks-json.php on line 1
+
+2023-07-28T04:45:37+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 8192 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\themes\flatsome\inc\admin\envato_setup\envato_setup.php on line 1118
+

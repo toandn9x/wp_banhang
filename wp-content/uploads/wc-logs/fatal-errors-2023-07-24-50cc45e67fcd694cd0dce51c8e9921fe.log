@@ -1,0 +1,6 @@
+2023-07-24T04:07:41+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-network-orders-controller.php on line 1
+
+2023-07-24T04:09:28+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-products-v1-controller.php on line 2502
+
+2023-07-24T04:09:32+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 327680 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-product-reviews-controller.php on line 821
+

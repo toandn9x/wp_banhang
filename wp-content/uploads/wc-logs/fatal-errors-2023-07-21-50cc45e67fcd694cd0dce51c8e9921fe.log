@@ -1,0 +1,14 @@
+2023-07-21T01:49:45+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\functions.php on line 649
+
+2023-07-21T02:02:09+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 536576 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\pomo\streams.php on line 229
+
+2023-07-21T02:23:13+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 98304 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\class-wp-scripts.php on line 411
+
+2023-07-21T02:26:29+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 114688 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-orders-v1-controller.php on line 1526
+
+2023-07-21T02:26:33+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-network-orders-controller.php on line 1
+
+2023-07-21T05:45:36+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 8192 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php on line 701
+
+2023-07-21T05:49:38+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 458752 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php on line 1467
+

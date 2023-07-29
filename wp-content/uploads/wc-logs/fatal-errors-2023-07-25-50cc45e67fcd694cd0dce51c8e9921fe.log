@@ -1,0 +1,46 @@
+2023-07-25T04:41:07+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 12288 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 1759
+
+2023-07-25T04:42:39+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\patterns\product-query-1-1-image-4-column-products-row.php on line 1
+
+2023-07-25T04:42:54+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\contact-form-7\includes\swv\rules\mindate.php on line 40
+
+2023-07-25T04:49:34+00:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 28672 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\themes\flatsome\inc\shortcodes\text_box.php on line 105
+
+2023-07-25T04:49:48+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 8388608 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-webhooks-v1-controller.php on line 426
+
+2023-07-25T04:49:52+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 114688 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 2953
+
+2023-07-25T04:57:53+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 4096 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\rest-api\class-wp-rest-server.php on line 903
+
+2023-07-25T04:57:59+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 114688 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-orders-v2-controller.php on line 1629
+
+2023-07-25T06:54:42+00:00 CRITICAL Out of memory (allocated 94371840) (tried to allocate 28672 bytes) in C:\xampp\htdocs\WP\wordpress\wp-admin\includes\class-wp-site-health.php on line 1637
+
+2023-07-25T06:54:44+00:00 CRITICAL Out of memory (allocated 54525952) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-notices.php on line 470
+
+2023-07-25T06:55:04+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 8192 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\orm\lib\Doctrine\ORM\Query\SqlWalker.php on line 337
+
+2023-07-25T06:55:04+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 114688 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-orders-v1-controller.php on line 1526
+
+2023-07-25T07:59:22+00:00 CRITICAL Out of memory (allocated 73400320) (tried to allocate 8192 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\contact-form-7\modules\textarea.php on line 117
+
+2023-07-25T07:59:23+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 114688 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-products-controller.php on line 812
+
+2023-07-25T08:00:33+00:00 CRITICAL Out of memory (allocated 54525952) (tried to allocate 12288 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php on line 468
+
+2023-07-25T08:00:34+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\plugin.php on line 177
+
+2023-07-25T08:00:37+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 40960 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-compat\lib\locales.php on line 1379
+
+2023-07-25T08:00:39+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 20480 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-v2-controller.php on line 1229
+
+2023-07-25T10:27:21+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 536576 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\pomo\streams.php on line 229
+
+2023-07-25T10:27:27+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 4096 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\rest-api\class-wp-rest-server.php on line 927
+
+2023-07-25T10:27:28+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 28672 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\themes\flatsome\inc\shortcodes\row.php on line 214
+
+2023-07-25T10:27:30+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 114688 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\themes\flatsome\inc\classes\class-wc-product-data-fields.php on line 320
+
+2023-07-25T10:27:34+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 114688 bytes) in C:\xampp\htdocs\WP\wordpress\wp-content\themes\flatsome\inc\classes\class-wc-product-data-fields.php on line 320
+
