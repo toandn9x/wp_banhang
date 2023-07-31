@@ -1,0 +1,6 @@
+2023-07-31T01:24:11+00:00 CRITICAL Out of memory (allocated 96468992) (tried to allocate 536576 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\pomo\streams.php on line 229
+
+2023-07-31T01:24:17+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 536576 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\pomo\streams.php on line 229
+
+2023-07-31T01:24:20+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 65536 bytes) in C:\xampp\htdocs\WP\wordpress\wp-includes\functions.php on line 649
+
